@@ -213,7 +213,6 @@ The PDF contains all the questions with the multiple-choice answers asked to the
 
 ##  Credits
 
-Thanks to **Codebasics** for the Resume Challenge #6 — a brilliant real-world data analytics simulation.
-
-🔗 [Challenge Link](https://www.codebasics.io/challenge)
+Thanks to **Codebasics** for the Resume Challenge #9 — a brilliant real-world data analytics simulation.
+🔗 [Challenge Link] https://codebasics.io/challenges/codebasics-resume-project-challenge/9
 
